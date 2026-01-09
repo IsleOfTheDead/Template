@@ -1,12 +1,19 @@
 <img src="https://raw.githubusercontent.com/IsleOfTheDead/.github/main/images/banner.png" width="100%" />
 
-# Template
-
-### *DayZ Mod Template*
+# DayZ Mod Template
 
 ![DayZ](https://img.shields.io/badge/DayZ-v1.29-6BA539?style=for-the-badge&logo=bohemiainteractive&logoColor=6BA539&labelColor=30363D)
 
----
+## Setup
+
+1. Create a new repository from this template. [Click Here](https://github.com/new?template_name=Template&template_owner=IsleOfTheDead)
+    - Rename "Template" to your mod name.
+
+2. Clone your newly created repository.
+
+3. Open the workspace in Visual Studio Code.
+
+4. Add the recommended extensions.
 
 ## Contact
 
