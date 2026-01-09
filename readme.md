@@ -1,12 +1,16 @@
-<p align="center">
-<img src=".github/images/banner.png" />
-</p>
+<img src="https://raw.githubusercontent.com/IsleOfTheDead/.github/main/images/banner.png" width="100%" />
 
 # Template
 
-## Summary
+### *DayZ Mod Template*
 
-DayZ Mod Template
+![DayZ](https://img.shields.io/badge/DayZ-v1.29-6BA539?style=for-the-badge&logo=bohemiainteractive&logoColor=6BA539&labelColor=30363D)
+
+---
+
+## Contact
+
+<img src="https://raw.githubusercontent.com/IsleOfTheDead/.github/main/images/discord.png" width="250" />
 
 ## Licenses
 
