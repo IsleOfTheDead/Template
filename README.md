@@ -1,0 +1,2 @@
+# Template
+DayZ Mod Template
