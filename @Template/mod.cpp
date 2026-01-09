@@ -1,0 +1,10 @@
+name="Template";
+tooltip="Template";
+overview="DayZ Mod Template";
+picture="Template/data/picture.paa";
+logoSmall="Template/data/logoSmall.paa";
+logo="Template/data/logo.paa";
+logoOver="Template/data/logoOver.paa";
+action="https://steamcommunity.com/sharedfiles/filedetails/?id=;
+author="moldypenguins";
+version="1.0";
