@@ -6,7 +6,7 @@
 [b]* Make sure the .bikey has been copied into your server keys folder.[/b]
 
 [h2]ISLE OF THE DEAD DISCORD:[/h2]
-[url=https://discord.gg/isleofthedead]discord.gg/isleofthedead[/url]
+[url=https://discord.gg/isleofthedead][img]https://i.imgur.com/OyvO7Wm.png[/img][/url]
 
 [h2]LEGAL:[/h2]
 [b]REPACKING IS ALLOWED.[/b]
